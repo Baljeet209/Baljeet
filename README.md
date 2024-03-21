@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Baljeet209/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Baljeet209/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/Baljeet209/Baljeet/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Baljeet209/Baljeet/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Baljeet209/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
